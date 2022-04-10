@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErdalErden, I live in Samsun, Turkey.  work in the IT department of a public institution.
-- 👀 I’m interested in C#, Java, Javascript, HTML, CSS, Angular and NodeJS technologies.
-- 🌱 I’m currently learning Angular and NodeJS.
+- 👀 I’m interested in C#, Java, Javascript, HTML, CSS, ReactJS, VueJS and NodeJS technologies.
+- 🌱 I’m currently learning React and NodeJS.
 - 📫 You can reach me via e-mail at erdalerden@mail.com
 
 <!---
