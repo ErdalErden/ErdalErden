@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErdalErden, I live in Samsun, Turkey.  work in the IT department of a public institution.
-- 👀 I’m interested in C#, Java, Javascript, HTML, CSS, ReactJS and NodeJS technologies.
-- 🌱 I’m currently learning ReactJS, Express, Mongo and NodeJS.
+- 👀 I’m interested in C#, Java, HTML, CSS, Dart and Flutter.
+- 🌱 I’m currently learning Dart, Flutter, and Firebase.
 - 📫 You can reach me via e-mail at erdalerden@mail.com
 
 <!---
